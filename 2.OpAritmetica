@@ -1,0 +1,8 @@
+//soma
+escreva (2+3);
+//subtração
+escreva (3-2);
+//multiplicação
+escreva (3*2);
+//divisão
+escreva (3/2)

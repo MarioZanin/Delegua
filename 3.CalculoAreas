@@ -1,0 +1,34 @@
+//Area Círculo
+var x = 2
+var area = (x*x)*3.14159
+escreva ("Area Circulo = " + area);
+
+//Area Triângulo
+var b = 2
+var h = 3
+var area = (b*h)/2
+escreve ("Area Triangulo = " + area);
+
+//Area Quadrado
+var l = 2
+var area = (l*l)
+escreva ("Area Quadrado = " + area);
+
+//Area Losango
+var D = 3
+var d = 2
+var area = (D*d)/2
+escreva ("Area Losango = " + area);
+
+//Area Retângulo
+var b = 2
+var h = 3
+var area = (b*h)
+escreva ("Area Retangulo = " + area);
+
+//Area Trapésio
+var B = 3
+var b = 2
+var h = 3
+var area = ((B+b)*h)/2
+escreva ("Area Trapesio = " + area);

@@ -1,0 +1,22 @@
+//Formas de Calculo de valor médio
+
+var a = 2
+var b = 4
+var media = (a*7 + b*3)/10 
+escreva ("Média = " + media); 
+
+
+var a = 2
+var b = 4
+var c = 5
+var d = 3
+var media = (a+b+c+d)/4
+escreva ("Média = " + media); 
+
+
+var a = 2
+var b = 4
+var c = 5
+var d = 3
+var media = (a*2+b*3+c*4+d*5)/(2+3+4+5)
+escreva ("Média = " + media); 

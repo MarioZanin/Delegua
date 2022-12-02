@@ -1,0 +1,52 @@
+//O Volume é cálculado da mesma forma da Area,
+//contudo, o resultado seá multiplicado pela altura
+//Há alguns objetos que apreentam cálculos próprios.
+
+//Volume esfera
+var r = 2
+var p = 3.14159
+var volume = ((r*r*r)*(4*p)/3)
+escreva ("Volume da Esfera = " + volume);
+
+//Volume cone
+var r = 2
+var p = 3.14159
+var h = 12
+var volume = (((r*r)*p)*h)/3
+escreva ("Volume do Cone = " + volume);
+
+//Volume cilindro
+var r = 2
+var p = 3.14159
+var h = 8
+var volume = (((r*r)*p)*h)
+escreva ("Volume do Cilindro = " + volume);
+
+//Volume prisma
+var b = 6
+var h = 10
+var volume = ((b*b)*h)/3
+escreva ("Volume do Prisma = " + volume);
+
+//Volume piramide (base triangular)
+vvar b = 7
+var hb = 2
+var base = (b*hb)/2
+var h = 9 
+var volume = (base*h)/3
+escreva ("Volume do Triangulo = " + volume);
+
+//Volume cubo (quadrado)
+var l = 2
+var volume = (l*l*l)
+escreva ("Volume do Cubo = " + volume);
+
+//Volume Paralelepipedo (retangulo)
+var a = 12
+var b = 5
+var h = 15
+var volume = (a*b*h)
+escreva ("Volume do Paralelepipedo = " + volume);
+
+
+
